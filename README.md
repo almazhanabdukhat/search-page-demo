@@ -3,13 +3,24 @@
 ### App map
 ![App Map](/ux-design/CovidTravelAgent-app-map.png)
 ### Wireframes
-<img src="/ux-design/CovidTravelAgent-Home-basic.png"  style="width:35%"/>
+<img src="/ux-design/CovidTravelAgent-Home-basic.png"  style="width:25%"/>
 <img src="/ux-design/CovidTravelAgent-Home-basic.png" style="width:35%"/>
 
+<div class="row">
+  <div class="column">
+    <img src="/ux-design/CovidTravelAgent-Home-basic.png" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/ux-design/CovidTravelAgent-Home-basic.png" alt="Forest" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/ux-design/CovidTravelAgent-Home-basic.png" alt="Mountains" style="width:100%">
+  </div>
+</div>
 
 <figure class="half" style="display:flex">
-    <img style="width:355px" src="/ux-design/CovidTravelAgent-Home-basic.png">
-    <img style="width:600px" src="/ux-design/CovidTravelAgent-Home-basic.png">
+    <img style="width200px" src="/ux-design/CovidTravelAgent-Home-basic.png">
+    <img style="width:200px" src="/ux-design/CovidTravelAgent-Home-basic.png">
     <figcaption>Caption describing these two images.</figcaption>
 </figure>
 
