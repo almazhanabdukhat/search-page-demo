@@ -37,13 +37,11 @@ Description. This page is the version of the 'Home page - basic version' page wi
 ![Home page - basic version with opened menu](/ux-design/Home-with-advanced-checkbox-checked.png)<br>
 Description.<br>
 1.D. **Home page with 'advanced', 'receive updates' boxes checked** <br> 
-![Home page - basic version with opened menu](/ux-design/Home-with-advanced-and-receive-updates-checkboxes-checked.png)
-<br>
+![Home page - basic version with opened menu](/ux-design/Home-with-advanced-and-receive-updates-checkboxes-checked.png)<br>
 Description. 
 <br><br>
 1.E. **Home page with 'advanced', 'receive updates' boxes checked and menu opened** <br>
-![Home page - basic version with opened menu](/ux-design/Home-with-advanced-and-receive-updates-checkbox-checked-and-menu-opened.png)
-<br> 
+![Home page - basic version with opened menu](/ux-design/Home-with-advanced-and-receive-updates-checkbox-checked-and-menu-opened.png)<br> 
 Description. 
 <br><br> 
 &emsp;2. **Confirmation** <br> 
