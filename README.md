@@ -38,7 +38,7 @@ Description. This page is the version of the 'Home page - basic version' page wi
 Description.<br>
 1.D. **Home page with 'advanced', 'receive updates' boxes checked** <br> 
 ![Home page - basic version with opened menu](/ux-design/Home-with-advanced-and-receive-updates-checkboxes-checked.png)
-<br><br>
+<br>
 Description. 
 <br><br>
 1.E. **Home page with 'advanced', 'receive updates' boxes checked and menu opened** <br>
