@@ -3,37 +3,16 @@
 ### App map
 ![App Map](/ux-design/CovidTravelAgent-app-map.png)
 ### Wireframes
-<img src="/ux-design/CovidTravelAgent-Home-basic.png"  style="width:25%"/>
-<img src="/ux-design/CovidTravelAgent-Home-basic.png" style="width:35%"/>
-
-<div class="row">
-  <div class="column">
-    <img src="/ux-design/CovidTravelAgent-Home-basic.png" alt="Snow" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="/ux-design/CovidTravelAgent-Home-basic.png" alt="Forest" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="/ux-design/CovidTravelAgent-Home-basic.png" alt="Mountains" style="width:100%">
-  </div>
-</div>
-
-<figure class="half" style="display:flex">
-    <img style="width200px" src="/ux-design/CovidTravelAgent-Home-basic.png">
-    <img style="width:200px" src="/ux-design/CovidTravelAgent-Home-basic.png">
-    <figcaption>Caption describing these two images.</figcaption>
-</figure>
-
 1\. **Home** <br><br>
-![1.A. Home page - basic version ](/ux-design/CovidTravelAgent-Home-basic.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Home page - basic version with opened menu](/ux-design/CovidTravelAgent-Home-basic-with-menu-opened.png) <br>
-1.A. Home page - basic version  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.B. Home page - basic version with opened menu <br><br>
+![1.A. Home page - basic version ](/ux-design/CovidTravelAgent-Home-basic.png )&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Home page - basic version with opened menu](/ux-design/CovidTravelAgent-Home-basic-with-menu-opened.png) <br>
+1.A. Home page - basic version  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; 1.B. Home page - basic version with opened menu <br><br>
 1.A. **Home page - basic version** <br>
 Description: This page is the version of the Home page with 'basic' input options and functionality and a closed hamburger menu. The page allows the user to enter citizenship, location and desired airport information and calculate the best travel locations personalised for them. Destinations will be ranked based on a cumulative points based system and the user can view and sort results based on the inputs and various COVID related data points.  <br>
 Optionally, the page allows to select additional inputs - once the user checks the 'advanced' box, additional input options and functionality will be displayed. Once the user checks the 'Calculate' button, he/she will be redirected to the confirmation page. <br><br>
 1.B. **Home page - basic version with opened menu** <br> 
 Description. This page is the version of the Home page page the 'basic' input options and functionality (as in 1.A) and contents of the hamburger menu displayed. The hamburger menu allows the user to navigate to the primary pages of the app.<br><br>
-![1.C. Home page with 'advanced' box checked ](/ux-design/CovidTravelAgent-Home-with-advanced-checkbox-checked.png)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![1.D. Home page with 'advanced', 'receive updates' boxes checked](/ux-design/CovidTravelAgent-Home-with-advanced-and-receive-updates-checkboxes-checked.png)<br> <br>
-1.C. Home page - advanced version &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;   1.D. Home page with 'advanced', 'receive updates' boxes checked <br> <br> 
+![1.C. Home page with 'advanced' box checked ](/ux-design/CovidTravelAgent-Home-with-advanced-checkbox-checked.png)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![1.D. Home page with 'advanced', 'receive updates' boxes checked](/ux-design/CovidTravelAgent-Home-with-advanced-and-receive-updates-checkboxes-checked.png)<br> <br>
+1.C. Home page - advanced version &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.D. Home page with 'advanced', 'receive updates' boxes checked <br> <br> 
 1.C. **Home page with 'advanced' box checked** <br> 
 Description. This page is the version of the 'Home page ' page with the advanced box checked and additional inputs and functionality made available to the user; the hamburger menu is closed. Advanced inputs include desired continent for travel, reason for travel, optional name and email address. If the user provides their email address, they can check the 'receive updates' box and additionally opt to receive rolling updates as new destinations become available to the user, which will be sent via email. <br><br>
 1.D. **Home page with 'advanced', 'receive updates' boxes checked** <br> 
