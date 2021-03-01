@@ -22,7 +22,8 @@ Overwrite the contents of the `README.md` in your team's assignment repository w
 
 ## Wireframes
 
-1. **Home**
+- **Home** <br><br>
+
 **Home page - basic version** <br> <br>
 ![Home page - basic version ](/ux-design/Home-basic.png)
 <br> <br>
@@ -48,7 +49,7 @@ Description.
 <br> <br>
 Description. 
 
-    2. **Confirmation** <br> <br>
+    - **Confirmation** <br> <br>
     **Confirmation - closed menu** <br> <br>
     ![onfirmation - closed menu](/ux-design/Home-with-advanced-and-receive-updates-checkboxes-checked.png)
     <br> <br>
@@ -59,85 +60,13 @@ Description.
     <br> <br>
     Description.
 
-        3. **View top locations** <br> <br>
+        - **View top locations** <br> <br>
         **View top locations - closed menu** <br> <br>
         ![View top locations - closed menu](/ux-design/Home-with-advanced-and-receive-updates-checkboxes-checked.png)
         <br> <br>
         Description.
 
-         **View top locations - opened menu** <br> <br>
+        **View top locations - opened menu** <br> <br>
         ![View top locations - opened menu](/ux-design/Home-with-advanced-and-receive-updates-checkboxes-checked.png)
         <br> <br>
         Description.
-
-                4. **COVID details for location 1** <br> <br>
-                 **COVID details for location 1 - closed menu** <br> <br>
-                ![COVID details for location 1](/ux-design/Home-with-advanced-and-receive-updates-checkboxes-checked.png)
-                <br> <br>
-                Description.
-
-                **COVID details for location 1 - opened menu** <br> <br>
-                ![COVID details for location 1 - opened menu](/ux-design/Home-with-advanced-and-receive-updates-checkboxes-checked.png)
-                <br> <br>
-                Description.
-
-                5. **COVID details for location 2** <br> <br>
-                 **COVID details for location 2 - closed menu** <br> <br>
-                ![COVID details for location 2 - closed menu](/ux-design/Home-with-advanced-and-receive-updates-checkboxes-checked.png)
-                <br> <br>
-                Description.
-
-                **COVID details for location 2 - opened menu** <br> <br>
-                ![COVID details for location 2 - opened menu](/ux-design/Home-with-advanced-and-receive-updates-checkboxes-checked.png)
-                <br> <br>
-                Description.
-
-                 6. **COVID details for location 3** <br> <br>
-                 **COVID details for location 3 - closed menu** <br> <br>
-                ![COVID details for location 3 - closed menu](/ux-design/Home-with-advanced-and-receive-updates-checkboxes-checked.png)
-                <br> <br>
-                Description.
-
-                **COVID details for location 3 - opened menu** <br> <br>
-                ![COVID details for location 3 - opened menu](/ux-design/Home-with-advanced-and-receive-updates-checkboxes-checked.png)
-                <br> <br>
-                Description.
-
-    7. **About us** <br> <br>
-    **About us - closed menu** <br> <br>
-    ![About us - closed menu](/ux-design/Home-with-advanced-and-receive-updates-checkboxes-checked.png)
-    <br> <br>
-    Description.
-
-     **About us - opened menu** <br> <br>
-    ![About us - opened menu](/ux-design/Home-with-advanced-and-receive-updates-checkboxes-checked.png)
-    <br> <br>
-    Description.
-
-        8. **Meet the team** <br> <br>
-        **Meet the team - closed menu** <br> <br>
-        ![Meet the team - closed menu](/ux-design/Home-with-advanced-and-receive-updates-checkboxes-checked.png)
-        Description.
-
-         **Meet the team - opened menu** <br> <br>
-        ![Meet the team - opened menu](/ux-design/Home-with-advanced-and-receive-updates-checkboxes-checked.png)
-        Description.
-
-    9. **Travel resources** <br> <br>
-    **Travel resources - closed menu** <br> <br>
-    ![Travel resources - closed menu](/ux-design/Home-with-advanced-and-receive-updates-checkboxes-checked.png)
-    Description.
-
-     **Travel resources - opened menu** <br> <br>
-    ![Travel resources - closed menu](/ux-design/Home-with-advanced-and-receive-updates-checkboxes-checked.png)
-    Description.
-    
-
-    10. **Contact us** <br> <br>
-    **Contact us - closed menu** <br> <br>
-    ![Contact us - closed menu](/ux-design/Home-with-advanced-and-receive-updates-checkboxes-checked.png)
-    Description.
-
-    **Contact us - opened menu** <br> <br>
-    ![Contact us - opened menu](/ux-design/Home-with-advanced-and-receive-updates-checkboxes-checked.png)
-    Description.
