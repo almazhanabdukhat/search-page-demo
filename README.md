@@ -25,10 +25,10 @@ Overwrite the contents of the `README.md` in your team's assignment repository w
 1. **Home** <br>
 1.A. **Home page - basic version** <br>
 ![Home page - basic version ](/ux-design/Home-basic.png)
-<br>
+<br><br>
 Description. The home page allows to calculate the personalized list of ranked travel destinations based on a range of COVID related data and provided inputs (citizenship, location, airport preference and optional advanced values). <br>
 Optionally, the page allows to select additional inputs - once the user checks the 'advanced' box, additional input options and functionality will be displayed. Once the user checks the 'Calculate' button, he/she will be redirected to the confirmation page. 
-<br>
+<br><br>
 1.B. **Home page - basic version with opened menu** <br> 
 ![Home page - basic version with opened menu](/ux-design/Home-basic-with-opened-menu.png)<br>
 Description. This page is the version of the 'Home page - basic version' page with the contents of the hamburger menu displayed. The hamburger menu allows the user to navigate to the primary pages.
