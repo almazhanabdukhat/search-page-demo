@@ -3,44 +3,16 @@
 ### App map
 ![App Map](/ux-design/CovidTravelAgent-app-map.png)
 ### Wireframes
-<img src="/ux-design/CovidTravelAgent-Home-basic.png" width="35%"/>
-<img src="/ux-design/CovidTravelAgent-Home-basic.png" width="35%"/>
-<style>
-.line{  /* Describes only positioning behaviour */
-    display: block; /* Not important, but helpful in this case */
-    clear: both;    /* Not important, but helpful in this case */
-}
+<img src="/ux-design/CovidTravelAgent-Home-basic.png"  style="width:35%"/>
+<img src="/ux-design/CovidTravelAgent-Home-basic.png" style="width:35%"/>
 
-.line__figure{ /* Describes only positioning behaviour */
-    float:left;
-}
 
-.figure{ /* Describes only view representation. */
-    display: block; /* Not important, but helpful in this case */
-}
+<figure class="half" style="display:flex">
+    <img style="width:355px" src="/ux-design/CovidTravelAgent-Home-basic.png">
+    <img style="width:600px" src="/ux-design/CovidTravelAgent-Home-basic.png">
+    <figcaption>Caption describing these two images.</figcaption>
+</figure>
 
-.figure__image{
-    background: lightgray;
-    width: 400px;
-    height: 300px;
-}
-</style>
-<article>
-    <section class='line'>
-        <figure class="line__figure figure">
-            <img class="figure__image top" src="/ux-design/CovidTravelAgent-Home-basic.png" width="35%"/>
-            <figcaption>Fig1. Production value and quantity
-            of the 10 top commodities</figcaption>
-        </figure>
-        <figure class="line__figure figure">
-            <img class="figure__image top" src="/ux-design/CovidTravelAgent-Home-basic.png" width="35%"/>
-            <figcaption>Fig2. Averages per metric ton</figcaption>
-        </figure>
-    </section>
-    <section class='line'>
-    Some text
-    </section>
-</article>
 1\. **Home** <br><br>
 ![1.A. Home page - basic version ](/ux-design/CovidTravelAgent-Home-basic.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Home page - basic version with opened menu](/ux-design/CovidTravelAgent-Home-basic-with-menu-opened.png) <br>
 1.A. Home page - basic version  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.B. Home page - basic version with opened menu <br><br>
