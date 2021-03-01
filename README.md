@@ -3,10 +3,46 @@
 ### App map
 ![App Map](/ux-design/CovidTravelAgent-app-map.png)
 ### Wireframes
-<img src="/ux-design/CovidTravelAgent-Home-basic.png" width="200"/>
+<img src="/ux-design/CovidTravelAgent-Home-basic.png" width="35%"/>
+<img src="/ux-design/CovidTravelAgent-Home-basic.png" width="35%"/>
+<style>
+.line{  /* Describes only positioning behaviour */
+    display: block; /* Not important, but helpful in this case */
+    clear: both;    /* Not important, but helpful in this case */
+}
 
+.line__figure{ /* Describes only positioning behaviour */
+    float:left;
+}
+
+.figure{ /* Describes only view representation. */
+    display: block; /* Not important, but helpful in this case */
+}
+
+.figure__image{
+    background: lightgray;
+    width: 400px;
+    height: 300px;
+}
+</style>
+<article>
+    <section class='line'>
+        <figure class="line__figure figure">
+            <img class="figure__image top" src="/ux-design/CovidTravelAgent-Home-basic.png" width="35%"/>
+            <figcaption>Fig1. Production value and quantity
+            of the 10 top commodities</figcaption>
+        </figure>
+        <figure class="line__figure figure">
+            <img class="figure__image top" src="/ux-design/CovidTravelAgent-Home-basic.png" width="35%"/>
+            <figcaption>Fig2. Averages per metric ton</figcaption>
+        </figure>
+    </section>
+    <section class='line'>
+    Some text
+    </section>
+</article>
 1\. **Home** <br><br>
-![1.A. Home page - basic version ](/ux-design/CovidTravelAgent-Home-basic.png )&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Home page - basic version with opened menu](/ux-design/CovidTravelAgent-Home-basic-with-menu-opened.png) <br>
+![1.A. Home page - basic version ](/ux-design/CovidTravelAgent-Home-basic.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Home page - basic version with opened menu](/ux-design/CovidTravelAgent-Home-basic-with-menu-opened.png) <br>
 1.A. Home page - basic version  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.B. Home page - basic version with opened menu <br><br>
 1.A. **Home page - basic version** <br>
 Description: This page is the version of the Home page with 'basic' input options and functionality and a closed hamburger menu. The page allows the user to enter citizenship, location and desired airport information and calculate the best travel locations personalised for them. Destinations will be ranked based on a cumulative points based system and the user can view and sort results based on the inputs and various COVID related data points.  <br>
