@@ -28,8 +28,9 @@ Description: This page is a version of the Confirmation page with closed hamburg
 1.1.B. **Confirmation - opened menu** <br> 
 Description: This page is the version of the 'Comfirmation' page with the contents of the hamburger menu displayed. The hamburger menu allows the user to navigate to the primary pages.<br><br> 
 1.1.1. **View top locations** <br> 
-![1.1.1.A. View top locations - closed menu](/ux-design/CovidTravelAgent-View-top-locations.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![1.1.1.A. View top locations - opened menu](/ux-design/CovidTravelAgent-View-top-locations-with-menu-opened.png) <br>
-1.1.1.A. View top locations - closed menu &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 1.1.1.B. View top locations - opened menu <br><br>
+<img src="/ux-design/CovidTravelAgent-View-top-locations.png" width="35%" height="35%">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/ux-design/CovidTravelAgent-View-top-locations-with-menu-opened.png" width="35%" height="35%"><br>
+1.1.1.A. View top locations - closed menu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.1.B. View top locations - opened menu <br><br>
 1.1.1.A. **View top locations - closed menu** <br> 
 Description: The view top locations page allows the user to view the best personalized locations to travel based on a synthesis of various COVID related data points; the locations can be sorted based on scores. The page contains images of each location and links to view the COVID related dataset for each location. <br><br>
 1.1.1.B. **View top locations - opened menu** <br> 
