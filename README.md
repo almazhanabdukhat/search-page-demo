@@ -6,7 +6,7 @@
 1\. **Home** <br><br>
 <img src="/ux-design/CovidTravelAgent-Home-basic.png" width="35%" height="35%">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/ux-design/CovidTravelAgent-Home-basic-with-menu-opened.png" width="35%" height="35%"><br>
-1.A. Home page - basic version &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.B. Home page - basic version with opened menu <br><br>
+1.A. Home page - basic version &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>1.B. Home page - basic version with opened menu</span> <br><br>
 1.A. **Home page - basic version** <br>
 Description: This page is the version of the Home page with 'basic' input options and functionality and a closed hamburger menu. The page allows the user to enter citizenship, location and desired airport information and calculate the best travel locations personalised for them. Destinations will be ranked based on a cumulative points based system and the user can view and sort results based on the inputs and various COVID related data points.  <br>
 Optionally, the page allows to select additional inputs - once the user checks the 'advanced' box, additional input options and functionality will be displayed. Once the user checks the 'Calculate' button, he/she will be redirected to the confirmation page. <br><br>
@@ -36,8 +36,9 @@ Description: The view top locations page allows the user to view the best person
 1.1.1.B. **View top locations - opened menu** <br> 
 Description: This page is the version of the 'View Top Locations' page with the contents of the hamburger menu displayed.<br><br>
 1.1.1.1. **COVID details for location** <br> 
-![1.1.1.1.A. COVID details for location closed menu](/ux-design/CovidTravelAgent-COVID-info.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![1.1.1.1.A. COVID details for location - opened menu](/ux-design/CovidTravelAgent-COVID-info-with-menu-opened.png) <br>
-1.1.1.1.A. COVID details for location - closed menu  &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.1.1.B. COVID details for location - opened menu <br><br>
+<img src="/ux-design/CovidTravelAgent-COVID-info.png" width="35%" height="35%">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/ux-design/CovidTravelAgent-COVID-info-with-menu-opened.png" width="35%" height="35%"><br>
+1.1.1.1.A. COVID details for location - closed menu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.1.1.B. COVID details for location - opened menu <br><br>
 1.1.1.1.A. **COVID details for location - closed menu** <br> 
 Description: This page can be reached from the page "View Top Locations" once the user selects to view COVID related data for a particular country. This page displays information on the current number of COVID cases, percentage of population vaccinated, mortality risk, quarantine requirements, and gov. stringency index. From this page, the user can navigate to the flights related information, or return to view other top locations. There will be a defined number of 'COVID details' pages standardized for all recommended locations. <br><br> 
 1.1.1.1.B. **COVID details for location  - opened menu** <br> 
