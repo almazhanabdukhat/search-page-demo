@@ -30,13 +30,13 @@ Description: This page is the version of the 'Comfirmation' page with the conten
 1.1.1. **View top locations** <br> 
 <img src="/ux-design/CovidTravelAgent-View-top-locations.png" width="35%" height="35%">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/ux-design/CovidTravelAgent-View-top-locations-with-menu-opened.png" width="35%" height="35%"><br>
-1.1.1.A. View top locations - closed menu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.1.B. View top locations - opened menu <br><br>
+1.1.1.A. View top locations - closed menu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.1.B. View top locations - opened menu <br><br>
 1.1.1.A. **View top locations - closed menu** <br> 
 Description: The view top locations page allows the user to view the best personalized locations to travel based on a synthesis of various COVID related data points; the locations can be sorted based on scores. The page contains images of each location and links to view the COVID related dataset for each location. <br><br>
 1.1.1.B. **View top locations - opened menu** <br> 
 Description: This page is the version of the 'View Top Locations' page with the contents of the hamburger menu displayed.<br><br>
 1.1.1.1. **COVID details for location** <br> 
-![1.1.1.1.A. COVID details for location closed menu](/ux-design/CovidTravelAgent-COVID-info.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![1.1.1.1.A. COVID details for location - opened menu](/ux-design/CovidTravelAgent-COVID-info-with-menu-opened.png) <br>
+![1.1.1.1.A. COVID details for location closed menu](/ux-design/CovidTravelAgent-COVID-info.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![1.1.1.1.A. COVID details for location - opened menu](/ux-design/CovidTravelAgent-COVID-info-with-menu-opened.png) <br>
 1.1.1.1.A. COVID details for location - closed menu  &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.1.1.B. COVID details for location - opened menu <br><br>
 1.1.1.1.A. **COVID details for location - closed menu** <br> 
 Description: This page can be reached from the page "View Top Locations" once the user selects to view COVID related data for a particular country. This page displays information on the current number of COVID cases, percentage of population vaccinated, mortality risk, quarantine requirements, and gov. stringency index. From this page, the user can navigate to the flights related information, or return to view other top locations. There will be a defined number of 'COVID details' pages standardized for all recommended locations. <br><br> 
