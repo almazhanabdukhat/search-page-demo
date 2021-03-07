@@ -37,7 +37,7 @@ Description: The view top locations page allows the user to view the best person
 Description: This page is the version of the 'View Top Locations' page with the contents of the hamburger menu displayed.<br><br>
 1.1.1.1. **COVID details for location** <br> 
 <img src="/ux-design/CovidTravelAgent-COVID-info.png" width="35%" height="35%">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/ux-design/CovidTravelAgent-COVID-info-with-menu-opened.png" width="35%" height="35%"><br>COVID details - closed menu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;COVID details - opened menu <br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/ux-design/CovidTravelAgent-COVID-info-with-menu-opened.png" width="35%" height="35%"><br>COVID details - closed menu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;COVID details - opened menu <br><br>
 1.1.1.1.A. **COVID details for location - closed menu** <br> 
 Description: This page can be reached from the page "View Top Locations" once the user selects to view COVID related data for a particular country. This page displays information on the current number of COVID cases, percentage of population vaccinated, mortality risk, quarantine requirements, and gov. stringency index. From this page, the user can navigate to the flights related information, or return to view other top locations. There will be a defined number of 'COVID details' pages standardized for all recommended locations. <br><br> 
 1.1.1.1.B. **COVID details for location  - opened menu** <br> 
@@ -45,47 +45,44 @@ Description: This page is the version of the 'COVID details for location' page w
 
 1.1.1.1.1. **Flight details for location** <br> 
 <img src="/ux-design/CovidTravelAgent-Flight-info.png" width="35%" height="35%">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/ux-design/CovidTravelAgent-Flight-info-with-menu-opened.png" width="35%" height="35%"> <br>Flight details - closed menu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;Flight details - opened menu<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/ux-design/CovidTravelAgent-Flight-info-with-menu-opened.png" width="35%" height="35%"> <br>Flight details - closed menu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;Flight details - opened menu<br><br>
 1.1.1.1.1.A. **Flight details for location - closed menu** <br>
 Description: This page displays flight information for the user based on their destination and uses travel APIs to show flights from the user's airport of preference to the destination they have selected. From this page the user will be redirected to an external site to view the details for the flights and complete the flight booking. The user can return to the COVID details page or to the page with top locations. There will be a defined number of 'Flight details' pages standardized for all recommended locations. <br><br> 
 1.1.1.1.1.B. **Flight details for location - opened menu** <br>
 Description: This page is the version of the 'Flight details for locations' page with the contents of the hamburger menu displayed. <br><br> 
 1.2. **About us** <br> 
-![1.2.A. About us - closed menu ](/ux-design/CovidTravelAgent-About-us.png )&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![1.2.B. About us - opened menu](/ux-design/CovidTravelAgent-About-us-with-opened-menu.png) <br>
-1.2.A. About us - closed menu   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.2.B. About us - opened menu <br><br>
+<img src="/ux-design/CovidTravelAgent-About-us.png" width="35%" height="35%">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/ux-design/CovidTravelAgent-About-us-with-opened-menu.png" width="35%" height="35%"> <br>About us - closed menu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;About us - opened menu<br><br>
 1.2.A. **About us - closed menu** <br> 
 Description: This page will provide background information on the project and our purpose for creating it. At the top, the page displays a carousel of the images featuring top safe locations to visit. The page also features iframes with our social media pages. Users can navigate to the "Meet the team" page to learn more about the team members. <br><br> 
 1.2.B. **About us - opened menu** <br> 
 Description: This page is the version of the 'About us' page with the contents of the hamburger menu displayed.<br><br>
 1.3. **Meet the team** <br> 
-![1.3.A. Meet the team - closed menu](/ux-design/CovidTravelAgent-About-us.png )&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![1.3.B. Meet the team - opened menu](/ux-design/CovidTravelAgent-About-us-with-opened-menu.png) <br>
-1.3.A. Meet the team - closed menu  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.3.B. Meet the team - opened menu <br><br>
+<img src="/ux-design/CovidTravelAgent-Meet-the-team.png" width="35%" height="35%">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/ux-design/CovidTravelAgent-Meet-the-team-with-menu-opened.png" width="35%" height="35%"> <br>Meet the team - closed menu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;Meet the team - opened menu<br><br>
 1.3.A. **Meet the team - closed menu** <br> 
 Description: This page will provide individual background details of each team member and display the picture of each team member. <br><br> 
 1.3.B. **Meet the team - opened menu** <br> 
 Description: This page is the version of the 'Meet the team' page with the contents of the hamburger menu displayed. 
 <br><br>
-
-
-
 1.4. **Safest Locations** <br> 
-![ 1.4.A. Safest Locations - closed menu](/ux-design/CovidTravelAgent-Featured-safest-locations.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;!![1.4.B. Safest Locations - opened menu](/ux-design/CovidTravelAgent-Featured-safest-locations-with-menu-opened.png) <br>
-1.4.A. Safest Locations - closed menu  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.4.B. Safest Locations - opened menu <br><br>
+<img src="/ux-design/CovidTravelAgent-Featured-safest-locations.png" width="35%" height="35%">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/ux-design/CovidTravelAgent-Featured-safest-locations-with-menu-opened.png" width="35%" height="35%"> <br>Safest Locations - closed menu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;Safest Locations - opened menu<br><br>
 1.4.A. **Safest Locations - closed menu** <br> 
 Description: This page will provide the top 3/5/10 safest locations from our database and will be independent of the user provided information. Any user can navigate to this page from the top navigation (hamburger menu) without filling out the detailed information for calculating travel destinations on the home page. <br><br> 
 1.4.B. **Safest Locations - opened menu** <br> 
 Description: This page is the version of the 'Safest Locations' page with the contents of the hamburger menu displayed. <br><br>
-
-![ 1.4.C. Safest Locations with details - closed menu](/ux-design/CovidTravelAgent-Featured-safest-locations-with-detailed-info.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![1.4.B. Safest Locations - opened menu](/ux-design/CovidTravelAgent-Featured-safest-locations-with-menu-opened.png) <br>
-1.4.C. Safest Locations with details - closed menu &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.4.D. Safest Locations with details - opened menu <br><br>
+<img src="/ux-design/CovidTravelAgent-Featured-safest-locations-with-detailed-info.png" width="35%" height="35%">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="//ux-design/CovidTravelAgent-Featured-safest-locations-with-menu-opened.png" width="35%" height="35%"> <br>Safest Locations with details - closed menu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;Safest Locations with details - opened menu<br><br>
+Safest Locations with details - closed menu &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Safest Locations with details - opened menu <br><br>
 1.4.C. **Safest Locations with details - closed menu** <br> 
 Description: This page is the version of the 'Safest Locations' page with more detailed information about each location <br><br> 
 1.4.D. **Safest Locations with details - opened menu** <br> 
 Description: This page is the version of the 'Safest Locations with details' page with the contents of the hamburger menu displayed. 
 <br><br>
-
 1.5. **Travel resources** <br> 
-![Travel resources - closed menu](/ux-design/CovidTravelAgent-Travel-resources.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Travel resources - closed menu](/ux-design/CovidTravelAgent-Travel-resources-with-menu-opened.png) <br>
+<img src="/ux-design/CovidTravelAgent-Travel-resources.png" width="35%" height="35%">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/ux-design/CovidTravelAgent-Travel-resources-with-menu-opened.png" width="35%" height="35%"> <br>Travel resources - closed menu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;Travel resources - opened menu<br><br>
 1.5.A. Travel resources - closed menu &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.5.B. Travel resources - opened menu <br><br>
 1.5.A. **Travel resources - closed menu** <br> 
 Description: This page will provide links to the resources about travel restrictions, travel reccommendations and COVID related news via featuring iframes of infographics. <br><br> 
@@ -93,8 +90,8 @@ Description: This page will provide links to the resources about travel restrict
 Description: This page is the version of the 'Travel resources' page with the contents of the hamburger menu displayed. <br><br>
 
 1.6. **Contact us** <br> 
-![Contact us - closed menu](/ux-design/CovidTravelAgent-Contact-us.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Contact us - opened menu](/ux-design/CovidTravelAgent-Contact-us-menu-opened.png)<br>
-1.6.A. Contact us - closed menu &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.6.B. Contact us - opened menu <br><br>
+<img src="/ux-design/CovidTravelAgent-Contact-us.png" width="35%" height="35%">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/ux-design/CovidTravelAgent-Contact-us-menu-opened.png" width="35%" height="35%"> <br>Contact us - closed menu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;Contact us - opened menu<br><br>
 1.6.A. **Contact us - closed menu** <br> 
 Description: This page allows the user to enter their name and email and send a message to us. The user can also navigate to the "About us" and "Meet the team" pages to learn more.
 1.6.B. **Contact us - opened menu** <br> 
