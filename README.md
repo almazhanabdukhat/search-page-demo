@@ -14,7 +14,7 @@ Optionally, the page allows to select additional inputs - once the user checks t
 Description. This page is the version of the Home page page the 'basic' input options and functionality (as in 1.A) and contents of the hamburger menu displayed. The hamburger menu allows the user to navigate to the primary pages of the app.<br><br>
 <img src="/ux-design/CovidTravelAgent-Home-with-advanced-checkbox-checked.png" width="35%" height="35%">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/ux-design/CovidTravelAgent-Home-with-advanced-and-receive-updates-checkboxes-checked.png" width="35%" height="35%"><br>
-1.C. Home page - advanced version&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.D. Home page with 'advanced', 'receive updates' checked <br> <br> 
+1.C. Home page - advanced version&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.D. Home page with 'advanced', 'receive updates' checked <br> <br> 
 1.C. **Home page with 'advanced' box checked** <br> 
 Description. This page is the version of the 'Home page ' page with the advanced box checked and additional inputs and functionality made available to the user; the hamburger menu is closed. Advanced inputs include desired continent for travel, reason for travel, optional name and email address. If the user provides their email address, they can check the 'receive updates' box and additionally opt to receive rolling updates as new destinations become available to the user, which will be sent via email. <br><br>
 1.D. **Home page with 'advanced', 'receive updates' boxes checked** <br> 
@@ -30,7 +30,7 @@ Description: This page is the version of the 'Comfirmation' page with the conten
 1.1.1. **View top locations** <br> 
 <img src="/ux-design/CovidTravelAgent-View-top-locations.png" width="35%" height="35%">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/ux-design/CovidTravelAgent-View-top-locations-with-menu-opened.png" width="35%" height="35%"><br>
-1.1.1.A. View top locations - closed menu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.1.B. View top locations - opened menu <br><br>
+1.1.1.A. View top locations - closed menu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.1.B. View top locations - opened menu <br><br>
 1.1.1.A. **View top locations - closed menu** <br> 
 Description: The view top locations page allows the user to view the best personalized locations to travel based on a synthesis of various COVID related data points; the locations can be sorted based on scores. The page contains images of each location and links to view the COVID related dataset for each location. <br><br>
 1.1.1.B. **View top locations - opened menu** <br> 
