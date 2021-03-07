@@ -38,7 +38,7 @@ Description: This page is the version of the 'View Top Locations' page with the 
 1.1.1.1. **COVID details for location** <br> 
 <img src="/ux-design/CovidTravelAgent-COVID-info.png" width="35%" height="35%">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/ux-design/CovidTravelAgent-COVID-info-with-menu-opened.png" width="35%" height="35%"><br>
-1.1.1.1.A. COVID details for location - closed menu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.1.1.B. COVID details for location - opened menu <br><br>
+1.1.1.1.A. COVID details for location - closed menu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1.1.1.B. COVID details for location - opened menu <br><br>
 1.1.1.1.A. **COVID details for location - closed menu** <br> 
 Description: This page can be reached from the page "View Top Locations" once the user selects to view COVID related data for a particular country. This page displays information on the current number of COVID cases, percentage of population vaccinated, mortality risk, quarantine requirements, and gov. stringency index. From this page, the user can navigate to the flights related information, or return to view other top locations. There will be a defined number of 'COVID details' pages standardized for all recommended locations. <br><br> 
 1.1.1.1.B. **COVID details for location  - opened menu** <br> 
