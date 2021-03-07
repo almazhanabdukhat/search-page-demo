@@ -72,10 +72,10 @@ Description: This page will provide the top 3/5/10 safest locations from our dat
 1.4.B. **Safest Locations - opened menu** <br> 
 Description: This page is the version of the 'Safest Locations' page with the contents of the hamburger menu displayed. <br><br>
 <img src="/ux-design/CovidTravelAgent-Featured-safest-locations-with-detailed-info.png" width="35%" height="35%">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/ux-design/CovidTravelAgent-Featured-safest-locations-with-detailed-info-and-opened-menu.png" width="35%" height="35%"> <br>Safest Locations with details - closed menu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;Safest Locations with details - opened menu<br><br>
-1.4.C. **Safest Locations with details - closed menu** <br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/ux-design/CovidTravelAgent-Featured-safest-locations-with-detailed-info-and-opened-menu.png" width="35%" height="35%"> <br>Safest Locations detailed-closed menu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;Safest Locations detailed-opened menu<br><br>
+1.4.C. **Safest Locations detailed - closed menu** <br> 
 Description: This page is the version of the 'Safest Locations' page with more detailed information about each location <br><br> 
-1.4.D. **Safest Locations with details - opened menu** <br> 
+1.4.D. **Safest Locations detailed - opened menu** <br> 
 Description: This page is the version of the 'Safest Locations with details' page with the contents of the hamburger menu displayed. 
 <br><br>
 1.5. **Travel resources** <br> 
